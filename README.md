@@ -1,5 +1,4 @@
-# Data-Visualization
-Online Retail Data Visualization – Tata Forage Job Simulation
+# Online Retail Data Visualization 
 
 # Project Overview
 
