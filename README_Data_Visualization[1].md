@@ -6,7 +6,7 @@ A collection of data visualisation projects and practice notebooks demonstrating
 
 ## About
 
-This repository contains visualisation work across multiple datasets — covering a range of chart types, storytelling techniques, and Python libraries. The focus is on building clear, meaningful, and aesthetically clean visualisations that communicate data insights at a glance.
+This repository contains visualisation work across multiple datasets - covering a range of chart types, storytelling techniques, and Python libraries. The focus is on building clear, meaningful, and aesthetically clean visualisations that communicate data insights at a glance.
 
 ---
 
@@ -89,5 +89,5 @@ jupyter notebook notebooks/
 ## Author
 
 **Manaswi Priya Maddu**
-B.Tech — AI & Machine Learning | Acharya Nagarjuna University
+B.Tech - AI & Machine Learning | Acharya Nagarjuna University
 [LinkedIn](https://linkedin.com/in/manaswi-priya-2126481b8) | [GitHub](https://github.com/manaswipriyaa)
